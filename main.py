@@ -5,3 +5,5 @@ def ahmed():
     print("ahmed function")
 def MOSSAP():
     print("MOSAP function")
+def ANWER():
+    print("ANWER function")
