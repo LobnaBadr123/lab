@@ -10,4 +10,4 @@ with open("ahmed.txt", "w") as file:
 with open("yasser.txt", "w") as file:
     file.write("yasser mohammed.\n") 
 with open(" anwar.txt", "w") as file:
-     file.write("anwar.\n")
+     file.write(" ahmed anwar.\n")
