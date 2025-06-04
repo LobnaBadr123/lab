@@ -5,5 +5,10 @@ def ahmed():
     print("ahmed function")
 def MOSSAP():
     print("MOSAP function")
+<<<<<<< HEAD
 def lobna():
     print("lobna function")
+=======
+def ANWER():
+    print("ANWER function")
+>>>>>>> origin/ahmed_khaled
