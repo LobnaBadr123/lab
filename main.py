@@ -8,4 +8,6 @@ def ahmed():
 with open("ahmed.txt", "w") as file:
     file.write("Mosap Mostfa Omar shoaib.\n")
 with open("yasser.txt", "w") as file:
-    file.write("yasser mohammed.\n")
+    file.write("yasser mohammed.\n") 
+with open(" anwar.txt", "w") as file:
+     file.write("anwar.\n")
