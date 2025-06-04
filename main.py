@@ -8,3 +8,5 @@ def ahmed():
     print("ahmed function")
 with open("ahmed.txt", "w") as file:
     file.write("Mosap Mostfa Omar shoaib.\n")
+with open("yasser.txt", "w") as file:
+    file.write("yasser mohammed.\n")
